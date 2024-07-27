@@ -9,10 +9,7 @@
 
 </div>
 
-MemGPT makes it easy to build and deploy stateful LLM agents with support for:
-* Long term memory/state management
-* Connections to [external data sources](https://memgpt.readme.io/docs/data_sources) (e.g. PDF files) for RAG
-* Defining and calling [custom tools](https://memgpt.readme.io/docs/functions) (e.g. [google search](https://github.com/cpacker/MemGPT/blob/main/examples/google_search.py))
+
 
 You can also use MemGPT to deploy agents as a *service*. You can use a MemGPT server to run a multi-user, multi-agent application on top of supported LLM providers.
 
