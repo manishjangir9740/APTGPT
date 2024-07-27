@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://memgpt.ai"><img src="https://github.com/cpacker/MemGPT/assets/5475622/80f2f418-ef92-4f7a-acab-5d642faa4991" alt="MemGPT logo"></a>
+
 </p>
 
 <div align="center">
