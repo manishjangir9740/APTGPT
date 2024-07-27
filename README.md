@@ -13,8 +13,6 @@
 
 You can also use MemGPT to deploy agents as a *service*. You can use a MemGPT server to run a multi-user, multi-agent application on top of supported LLM providers.
 
-<img width="1000" alt="image" src="https://github.com/cpacker/MemGPT/assets/8505980/1096eb91-139a-4bc5-b908-fa585462da09">
-
 
 ## Installation & Setup
 Install MemGPT:
